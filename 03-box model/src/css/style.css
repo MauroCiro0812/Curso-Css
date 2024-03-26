@@ -1,0 +1,10 @@
+.caja{
+    background-color: yellow;
+    /* width: 200px; */
+    min-width: 100px;
+    max-width: 300px;
+    /* height: 200px; */
+    min-height: 200px;
+    max-height: 500px;
+    /* overflow: hidden; */
+}
