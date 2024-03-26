@@ -1,0 +1,20 @@
+/* #title{
+    color: blue;
+}
+
+.title{
+    color: crimson;
+}                          Especificidad
+
+h1{
+    color: yellow;
+}
+
+body > #title{
+    color: orangered;
+} */
+/*
+    1- Selector de tipo, Pseudoelementos ::
+    10- Selector de clase, Pseudoclases :,[]
+    100- Selector de ID
+*/
